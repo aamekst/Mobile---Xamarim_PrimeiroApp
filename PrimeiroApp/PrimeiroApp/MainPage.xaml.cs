@@ -12,6 +12,7 @@ namespace PrimeiroApp
     {
         public MainPage()
         {
+
             InitializeComponent();
         }
 
@@ -19,7 +20,7 @@ namespace PrimeiroApp
         private void Button_Clicked(object sender, EventArgs e)
         {
             count++;
-            ((Button)sender).Text = "você clicou" + count.ToString()+ "VEZES";
+            ((Button)sender).Text = "você clicou" + count.ToString() + "VEZES";
 
 
         }
@@ -27,7 +28,7 @@ namespace PrimeiroApp
 
         private void btnVerificar_Clicked(object sender, EventArgs e)
         {
-            string texto = $"o nome tem {txtNome.Text.Length} caracteres";
+            string texto = $"o nome teme {txtNome.Text.Length} caracteres";
             DisplayAlert("Mensagem", texto, "Ok!");
 
         }
