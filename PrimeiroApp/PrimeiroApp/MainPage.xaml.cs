@@ -20,7 +20,7 @@ namespace PrimeiroApp
         private void Button_Clicked(object sender, EventArgs e)
         {
             count++;
-            ((Button)sender).Text = "você clicou" + count.ToString() + "VEZES";
+            ((Button)sender).Text = "você clicou" + count.ToString() +  "VEZES";
 
 
         }
@@ -28,7 +28,7 @@ namespace PrimeiroApp
 
         private void btnVerificar_Clicked(object sender, EventArgs e)
         {
-            string texto = $"o nome teme {txtNome.Text.Length} caracteres";
+            string texto = $"o nome tem {txtNome.Text.Length} caracteres";
             DisplayAlert("Mensagem", texto, "Ok!");
 
         }
@@ -36,7 +36,12 @@ namespace PrimeiroApp
         private async void btnLimpar_Clicked(object sender, EventArgs e)
         {
             if (await DisplayAlert("Pergunta", "Deseja realemente limpar a tela?", "yes", "no")) ;
-            btnCliqueAqui.Text = "Clique aqui";
+            {
+                txtNome.Text = string.Empty;
+                btnCliqueAqui.Text = "Clique aqui";
+
+            }
+
         }
     }
 }
