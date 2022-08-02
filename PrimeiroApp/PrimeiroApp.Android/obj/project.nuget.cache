@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MNZ1/WMr6rZGmTMBCnglC23Z12zmqAqQrHFJ6/KMgWBSzxAR03XwYCSfc3ELz8TNplTgrtEE66m9ILNvdbM8eQ==",
+  "dgSpecHash": "XA/6FYidr3iCX5eijH1A3HKdUDiDPaFrKEG26lqx01tTD5GX1kVMIHltGIdO1rK01gEAtxLLlBhosb2X+yRJIA==",
   "success": true,
-  "projectFilePath": "D:\\2022_2_DS_ALANA\\Mobile\\PrimeiroApp\\PrimeiroApp\\PrimeiroApp.Android\\PrimeiroApp.Android.csproj",
+  "projectFilePath": "D:\\2022_2_DS_ALANA\\Mobile\\Mobile---Xamarim_PrimeiroApp\\PrimeiroApp\\PrimeiroApp.Android\\PrimeiroApp.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\etechas\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Users\\etechas\\.nuget\\packages\\xamarin.androidx.activity\\1.2.4.1\\xamarin.androidx.activity.1.2.4.1.nupkg.sha512",

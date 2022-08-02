@@ -3177,11 +3177,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\2022_2_DS_ALANA\\Mobile\\PrimeiroApp\\PrimeiroApp\\PrimeiroApp.Android\\PrimeiroApp.Android.csproj",
+      "projectUniqueName": "D:\\2022_2_DS_ALANA\\Mobile\\Mobile---Xamarim_PrimeiroApp\\PrimeiroApp\\PrimeiroApp.Android\\PrimeiroApp.Android.csproj",
       "projectName": "PrimeiroApp.Android",
-      "projectPath": "D:\\2022_2_DS_ALANA\\Mobile\\PrimeiroApp\\PrimeiroApp\\PrimeiroApp.Android\\PrimeiroApp.Android.csproj",
+      "projectPath": "D:\\2022_2_DS_ALANA\\Mobile\\Mobile---Xamarim_PrimeiroApp\\PrimeiroApp\\PrimeiroApp.Android\\PrimeiroApp.Android.csproj",
       "packagesPath": "C:\\Users\\etechas\\.nuget\\packages\\",
-      "outputPath": "D:\\2022_2_DS_ALANA\\Mobile\\PrimeiroApp\\PrimeiroApp\\PrimeiroApp.Android\\obj\\",
+      "outputPath": "D:\\2022_2_DS_ALANA\\Mobile\\Mobile---Xamarim_PrimeiroApp\\PrimeiroApp\\PrimeiroApp.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -3198,8 +3198,8 @@
       "frameworks": {
         "monoandroid12.0": {
           "projectReferences": {
-            "D:\\2022_2_DS_ALANA\\Mobile\\PrimeiroApp\\PrimeiroApp\\PrimeiroApp\\PrimeiroApp.csproj": {
-              "projectPath": "D:\\2022_2_DS_ALANA\\Mobile\\PrimeiroApp\\PrimeiroApp\\PrimeiroApp\\PrimeiroApp.csproj"
+            "D:\\2022_2_DS_ALANA\\Mobile\\Mobile---Xamarim_PrimeiroApp\\PrimeiroApp\\PrimeiroApp\\PrimeiroApp.csproj": {
+              "projectPath": "D:\\2022_2_DS_ALANA\\Mobile\\Mobile---Xamarim_PrimeiroApp\\PrimeiroApp\\PrimeiroApp\\PrimeiroApp.csproj"
             }
           }
         }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GFH8JJ6ys//sryFUS0PNS54+Sw/7aYEevyTF0bLzkosdfDI4OnVcLGYwMJL9qYq+1EB3bvpEBZZkjqgrjz/IFw==",
+  "dgSpecHash": "+xkH16QNzyi05H0BQ5idccVGUFfPUUAl90g66kFunG0eDXrEiEjyoo3X1yzW6xiZc3lANQHZLx6p0XuBc5mLew==",
   "success": true,
-  "projectFilePath": "D:\\2022_2_DS_ALANA\\Mobile\\PrimeiroApp\\PrimeiroApp\\PrimeiroApp\\PrimeiroApp.csproj",
+  "projectFilePath": "D:\\2022_2_DS_ALANA\\Mobile\\Mobile---Xamarim_PrimeiroApp\\PrimeiroApp\\PrimeiroApp\\PrimeiroApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\etechas\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\etechas\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",

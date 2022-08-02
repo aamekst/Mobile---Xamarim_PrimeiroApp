@@ -4,7 +4,7 @@
              x:Class="PrimeiroApp.MainPage">
 
     <StackLayout>
-        <Frame BackgroundColor="#C493FF" Padding="24" CornerRadius="14">
+        <Frame BackgroundColor="#C493FF" Padding="24" CornerRadius="5">
             <Label Text="Bem-Vindo ao Xamarin.Forms!" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
         </Frame>
         <Label Text="Start developing now" FontSize="Title" Padding="30,10,30,10"/>
@@ -13,8 +13,8 @@
             <Label.FormattedText>
                 <FormattedString>
                     <FormattedString.Spans>
-                        <Span Text="Learn more at "/>
-                        <Span Text="https://aka.ms/xamarin-quickstart" FontAttributes="Bold"/>
+                        <Span Text=""/>
+                        <Span Text=""/>
                     </FormattedString.Spans>
                 </FormattedString>
             </Label.FormattedText>
@@ -22,12 +22,20 @@
 
         <Button x:Name="btnCliqueAqui" Text="Clique aqui" Clicked="Button_Clicked"/>
         <Entry  x:Name="txtNome" Placeholder="" />
-        <Button x:Name="btnVerificar" Text="Verificar" Clicked="btnVerificar_Clicked"/>
-        <Button x:Name="btnLimpar" Text="Limpar" Clicked="btnLimpar_Clicked"/>
+        <Button x:Name="btnVerificar" Text="Verificar" Clicked="btnVerificar_Clicked" BackgroundColor="#21DF59"/>
+        <Button x:Name="btnLimpar" Text="Limpar" Clicked="btnLimpar_Clicked" BackgroundColor="#F73333"/>
+
+
+        <Button x:Name="btninformaDataNascimento"
+            Text="Informa a Data de Nascimento" 
+                Clicked="btninformaDataNascimento_Clicked"
+                BackgroundColor="#F9EAFF" CornerRadius="10"/>
+
+        <Label x:Name="lblDataNascimento" />
+        <Button x:Name="btnOpcoes"
+            Text="Opções" Clicked="btnOpcoes_Clicked" />
         
 
-
-
     </StackLayout>
-  
+   
 </ContentPage>

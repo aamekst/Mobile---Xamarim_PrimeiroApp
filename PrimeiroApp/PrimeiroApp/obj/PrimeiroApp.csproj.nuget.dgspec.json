@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\2022_2_DS_ALANA\\Mobile\\PrimeiroApp\\PrimeiroApp\\PrimeiroApp\\PrimeiroApp.csproj": {}
+    "D:\\2022_2_DS_ALANA\\Mobile\\Mobile---Xamarim_PrimeiroApp\\PrimeiroApp\\PrimeiroApp\\PrimeiroApp.csproj": {}
   },
   "projects": {
-    "D:\\2022_2_DS_ALANA\\Mobile\\PrimeiroApp\\PrimeiroApp\\PrimeiroApp\\PrimeiroApp.csproj": {
+    "D:\\2022_2_DS_ALANA\\Mobile\\Mobile---Xamarim_PrimeiroApp\\PrimeiroApp\\PrimeiroApp\\PrimeiroApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\2022_2_DS_ALANA\\Mobile\\PrimeiroApp\\PrimeiroApp\\PrimeiroApp\\PrimeiroApp.csproj",
+        "projectUniqueName": "D:\\2022_2_DS_ALANA\\Mobile\\Mobile---Xamarim_PrimeiroApp\\PrimeiroApp\\PrimeiroApp\\PrimeiroApp.csproj",
         "projectName": "PrimeiroApp",
-        "projectPath": "D:\\2022_2_DS_ALANA\\Mobile\\PrimeiroApp\\PrimeiroApp\\PrimeiroApp\\PrimeiroApp.csproj",
+        "projectPath": "D:\\2022_2_DS_ALANA\\Mobile\\Mobile---Xamarim_PrimeiroApp\\PrimeiroApp\\PrimeiroApp\\PrimeiroApp.csproj",
         "packagesPath": "C:\\Users\\etechas\\.nuget\\packages\\",
-        "outputPath": "D:\\2022_2_DS_ALANA\\Mobile\\PrimeiroApp\\PrimeiroApp\\PrimeiroApp\\obj\\",
+        "outputPath": "D:\\2022_2_DS_ALANA\\Mobile\\Mobile---Xamarim_PrimeiroApp\\PrimeiroApp\\PrimeiroApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\etechas\\AppData\\Roaming\\NuGet\\NuGet.Config",
