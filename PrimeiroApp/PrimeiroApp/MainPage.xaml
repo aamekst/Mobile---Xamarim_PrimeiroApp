@@ -7,8 +7,8 @@
         <Frame BackgroundColor="#C493FF" Padding="24" CornerRadius="5">
             <Label Text="Bem-Vindo ao Xamarin.Forms!" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
         </Frame>
-        <Label Text="Start developing now" FontSize="Title" Padding="30,10,30,10"/>
-        <Label Text="Make changes to your XAML file and save to see your UI update in the running app with XAML Hot Reload. Give it a try!!!!!!" FontSize="16" Padding="30,0,30,0"/>
+       <!-- <Label Text="Start developing now" FontSize="Title" Padding="30,10,30,10"/>
+        <Label Text=""/>
         <Label FontSize="16" Padding="30,24,30,0">
             <Label.FormattedText>
                 <FormattedString>
@@ -18,12 +18,12 @@
                     </FormattedString.Spans>
                 </FormattedString>
             </Label.FormattedText>
-        </Label>
+        </Label>-->
 
         <Button x:Name="btnCliqueAqui" Text="Clique aqui" Clicked="Button_Clicked"/>
         <Entry  x:Name="txtNome" Placeholder="" />
-        <Button x:Name="btnVerificar" Text="Verificar" Clicked="btnVerificar_Clicked" BackgroundColor="#21DF59"/>
-        <Button x:Name="btnLimpar" Text="Limpar" Clicked="btnLimpar_Clicked" BackgroundColor="#F73333"/>
+        <Button x:Name="btnVerificar" Text="Verificar" Clicked="btnVerificar_Clicked" BackgroundColor="#F9EAFF"/>
+        <Button x:Name="btnLimpar" Text="Limpar" Clicked="btnLimpar_Clicked" BackgroundColor="#F9EAFF"/>
 
 
         <Button x:Name="btninformaDataNascimento"
@@ -31,9 +31,12 @@
                 Clicked="btninformaDataNascimento_Clicked"
                 BackgroundColor="#F9EAFF" CornerRadius="10"/>
 
+        <Entry  x:Name="txtNome2" Placeholder="" />
+
         <Label x:Name="lblDataNascimento" />
         <Button x:Name="btnOpcoes"
-            Text="Opções" Clicked="btnOpcoes_Clicked" />
+            Text="Opções" Clicked="btnOpcoes_Clicked"
+                BackgroundColor="#954FCC" TextColor="White"/>
         
 
     </StackLayout>
